@@ -1,2 +1,9 @@
 jnn-pa.googleapis.com
 0.0.0.0 jnn-pa.googleapis.com
+0.0.0.0 rr2---sn-q4flrner.googlevideo.com
+0.0.0.0 rr1---sn-25glenez.googlevideo.com
+0.0.0.0 rr6---sn-cxab5jvh-cg0ee.googlevideo.com
+0.0.0.0 rr2---sn-cxab5jvh-cg0es.googlevideo.com
+0.0.0.0 lh6.googleusercontent.com
+0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 lh6.googleusercontent.com
